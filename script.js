@@ -10,7 +10,7 @@ window.addEventListener('scroll', function(){
     scientist.style.transform = 'none';
   };
 
-  if (scrollValue > 0.60){
+  if (scrollValue > 0.58){
     gas.style.opacity = '1';
     gas.style.transform = 'none';
   };
